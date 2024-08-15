@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "DropLHa";
+CFBundleShortVersionString = "DropLHa version 2.3.6";
+CFBundleGetInfoString = "DropLHa version 2.3.6, Copyright 2001-2016 Hiroto Sakai.";
+NSHumanReadableCopyright = "Copyright 2001-2016 Hiroto Sakai.";
+CFBundleHelpBookName = "DropLHa Help";

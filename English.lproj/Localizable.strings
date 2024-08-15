@@ -1,0 +1,13 @@
+"OK" = "OK";
+"Cancel" = "Cancel";
+
+"Error" = "Error";
+"Warning" = "Warning";
+
+"Select" = "Select";
+"Select_destination" = "Select destination folder";
+
+"Bad_destination" = "Bad destination is specified.";
+"Task_is_running" = "Another task is running. Please try again later.";
+"Really_quit" = "Another task is running. Are you really quit ?";
+"Error_occured" = "Failed to create an archive.";

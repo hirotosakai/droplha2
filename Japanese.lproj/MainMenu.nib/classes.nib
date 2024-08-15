@@ -1,0 +1,34 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                destSelectClicked = id; 
+                openMenuSelected = id; 
+                prefCancelClicked = id; 
+                prefMenuSelected = id; 
+                prefOkClicked = id; 
+                stopClicked = id; 
+            }; 
+            CLASS = DropLHa; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                destRadio = id; 
+                destText = id; 
+                extItemText = id; 
+                headerPopup = id; 
+                hiddenFileToggle = id; 
+                methodPopup = id; 
+                noQuitToggle = id; 
+                prefWindow = id; 
+                remCountText = id; 
+                taskIndicator = id; 
+                taskPerItemToggle = id; 
+                taskWindow = id; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = TaskController; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}
