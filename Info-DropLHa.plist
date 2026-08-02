@@ -18,7 +18,7 @@
 	<key>CFBundleExecutable</key>
 	<string>DropLHa</string>
 	<key>CFBundleGetInfoString</key>
-	<string>DropLHa 2.3.6, © 2001-2016 Hiroto Sakai</string>
+	<string>DropLHa 2.3.7, © 2001-2026 Hiroto Sakai</string>
 	<key>CFBundleHelpBookFolder</key>
 	<string>Help</string>
 	<key>CFBundleHelpBookName</key>
@@ -34,11 +34,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.3.6</string>
+	<string>2.3.7</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>2.3.6</string>
+	<string>2.3.7</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
